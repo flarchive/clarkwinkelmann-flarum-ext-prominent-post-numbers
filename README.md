@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-prominent-post-numbers.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-prominent-post-numbers) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-prominent-post-numbers).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-prominent-post-numbers/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-prominent-post-numbers/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-07-04 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-prominent-post-numbers/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-02-16 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-prominent-post-numbers/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-prominent-post-numbers.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-prominent-post-numbers.json)
 
